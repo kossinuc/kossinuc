@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hi, I'm Aleksey</h3>
+  <h3 align="center">Hi, I'm Koss</h3>
 </p>
 
 <p align="center">
